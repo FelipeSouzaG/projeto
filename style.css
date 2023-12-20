@@ -55,7 +55,7 @@ body * {
 
 #container {
   width: 100%;
-  max-width: 588px;
+  max-width: 400px;
   height: 712px;
   /*border: 1px solid red;*/
   /* margin pode receber até 4 atributos
