@@ -1,4 +1,3 @@
-<<<<<<< HEAD:.vscode/README.md
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
@@ -104,4 +103,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
->>>>>>> 8dcfcaf7a8be362f0b376513b893658006a963db:README.md
